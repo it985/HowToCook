@@ -71,6 +71,15 @@ markdown_extensions:
 plugins:
   - same-dir
   - search
+  - with-pdf:
+      author: GitHub Community
+      copyright: The Unlicense
+      cover_title: How To Cook
+      cover_subtitle: 程序员做饭指南
+      back_cover: true
+      output_path: document.pdf
+      show_anchors: true
+      toc_level: 4
   - minify:
       minify_html: true
 
@@ -126,7 +135,6 @@ nav:
           - 凉拌木耳: ./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md
           - 凉拌莴笋: ./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md
           - 凉拌油麦菜: ./dishes/vegetable_dish/凉拌油麦菜.md
-          - 麻婆豆腐: ./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md
           - 蒲烧茄子: ./dishes/vegetable_dish/蒲烧茄子.md
           - 芹菜拌茶树菇: ./dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md
           - 陕北熬豆角: ./dishes/vegetable_dish/陕北熬豆角.md
@@ -353,6 +361,7 @@ nav:
           - 可乐桶: ./dishes/drink/可乐桶.md
           - 奶茶: ./dishes/drink/奶茶.md
           - 奇异果菠菜特调: ./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md
+          - 砂糖椰子冰沙: ./dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md
           - 酸梅汤: ./dishes/drink/酸梅汤/酸梅汤.md
           - 酸梅汤（半成品加工）: ./dishes/drink/酸梅汤（半成品加工）.md
           - 泰国手标红茶: ./dishes/drink/泰国手标红茶/泰国手标红茶.md

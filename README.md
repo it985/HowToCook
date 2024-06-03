@@ -5,7 +5,7 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 [![npm](https://img.shields.io/npm/v/how-to-cook)](https://www.npmjs.com/package/how-to-cook)
 ![Man hours](https://manhours.aiursoft.cn/r/github.com/anduin2017/howtocook.svg)
-[![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://hub.aiursoft.cn/#!/taglist/anduin/howtocook)
+[![Docker](https://img.shields.io/badge/docker-latest-blue?logo=docker)](https://hub.docker.com/r/anduin2019/howtocook)
 
 最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
 
@@ -72,7 +72,6 @@
 - [凉拌木耳](./dishes/vegetable_dish/凉拌木耳/凉拌木耳.md)
 - [凉拌莴笋](./dishes/vegetable_dish/凉拌莴笋/凉拌莴笋.md)
 - [凉拌油麦菜](./dishes/vegetable_dish/凉拌油麦菜.md)
-- [麻婆豆腐](./dishes/vegetable_dish/麻婆豆腐/麻婆豆腐.md)
 - [蒲烧茄子](./dishes/vegetable_dish/蒲烧茄子.md)
 - [芹菜拌茶树菇](./dishes/vegetable_dish/芹菜拌茶树菇/芹菜拌茶树菇.md)
 - [陕北熬豆角](./dishes/vegetable_dish/陕北熬豆角.md)
@@ -306,6 +305,7 @@
 - [可乐桶](./dishes/drink/可乐桶.md)
 - [奶茶](./dishes/drink/奶茶.md)
 - [奇异果菠菜特调](./dishes/drink/奇异果菠菜特调/奇异果菠菜特调.md)
+- [砂糖椰子冰沙](./dishes/drink/砂糖椰子冰沙/砂糖椰子冰沙.md)
 - [酸梅汤](./dishes/drink/酸梅汤/酸梅汤.md)
 - [酸梅汤（半成品加工）](./dishes/drink/酸梅汤（半成品加工）.md)
 - [泰国手标红茶](./dishes/drink/泰国手标红茶/泰国手标红茶.md)
