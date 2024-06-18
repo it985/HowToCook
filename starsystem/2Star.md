@@ -18,6 +18,7 @@
 * [草莓酱](./../dishes/condiment/草莓酱/草莓酱.md)
 * [蒜香酱油](./../dishes/condiment/蒜香酱油.md)
 * [草莓冰淇淋](./../dishes/dessert/草莓冰淇淋/草莓冰淇淋.md)
+* [冬瓜茶](./../dishes/drink/冬瓜茶.md)
 * [冰粉](./../dishes/drink/冰粉/冰粉.md)
 * [可乐桶](./../dishes/drink/可乐桶.md)
 * [奶茶](./../dishes/drink/奶茶.md)
